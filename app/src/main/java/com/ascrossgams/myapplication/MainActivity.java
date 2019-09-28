@@ -110,19 +110,19 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         FragmentTransaction ftrans = getSupportFragmentManager().beginTransaction();
 
         if (id == R.id.nav_news) {
-            ftrans.replace(R.id.container, newsFragment);
+            ftrans.replace(R.id.nav_host_fragment, newsFragment);
         } else if (id == R.id.nav_sources) {
-            ftrans.replace(R.id.container, sourcesFragment);
+            ftrans.replace(R.id.nav_host_fragment, sourcesFragment);
 
         } else if (id == R.id.nav_weather) {
-            ftrans.replace(R.id.container, weatherFragment);
+            ftrans.replace(R.id.nav_host_fragment, weatherFragment);
 
         } else if (id == R.id.nav_exit) {
-            ftrans.replace(R.id.container, exitFragment);
+            ftrans.replace(R.id.nav_host_fragment, exitFragment);
 
 
         } else if (id == R.id.nav_profile) {
-            ftrans.replace(R.id.container, profileFragment);
+            ftrans.replace(R.id.nav_host_fragment, profileFragment);
 
         } ftrans.commit();
 
