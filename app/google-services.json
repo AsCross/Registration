@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523107792490",
+    "firebase_url": "https://registration-f6617.firebaseio.com",
+    "project_id": "registration-f6617",
+    "storage_bucket": "registration-f6617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523107792490:android:31a8ea0bbe3c5e8a23fc13",
+        "android_client_info": {
+          "package_name": "com.ascrossgams.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523107792490-mvt0j6rihjadj1m5936sbmn4ce5b6v9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglRdIjXoBf_j0Nd531GcR0OgLTAGTOUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523107792490-mvt0j6rihjadj1m5936sbmn4ce5b6v9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

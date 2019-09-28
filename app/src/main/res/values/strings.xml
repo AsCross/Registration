@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Your mail</string>
+    <string name="nav_header_subtitle" translatable="false">Украина, Киев</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="menu_news" translatable="false">Новости</string>
+    <string name="menu_sources" translatable="false">Источники</string>
+    <string name="menu_weather" translatable="false">Погода</string>
+    <string name="menu_profile" translatable="false">Профиль</string>
+    <string name="menu_exit" translatable="false">Выход</string>
+
+    <string-array name="countries">
+        <item>Ukraine</item>
+        <item>Poland</item>
+        <item>German</item>
+    </string-array>
+
+    <string-array name="cities_ukraine">
+        <item>Kiev</item>
+        <item>Dnipro</item>
+        <item>Kharkiv</item>
+        <item>Lviv</item>
+    </string-array>
+
+    <string-array name="cities_poland">
+        <item>Warsaw</item>
+        <item>Krakow</item>
+        <item>Lodz</item>
+        <item>Poznan</item>
+    </string-array>
+
+    <string-array name="cities_german">
+        <item>Berlin</item>
+        <item>Munich</item>
+        <item>Cologne</item>
+        <item>Hamburg</item>
+    </string-array>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_firstname">First name</string>
+    <string name="prompt_surname">Surname</string>
+    <string name="prompt_phone">Phone</string>
+    <string name="prompt_date_of_birth">Date of Birth</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_con">Confirm password</string>
+    <string name="action_sign_in" translatable="false">Sign in or register</string>
+    <string name="action_sign_in_short" translatable="false">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username" translatable="false">Not a valid username</string>
+    <string name="invalid_password" translatable="false">Password must be >5 characters</string>
+    <string name="login_failed" translatable="false">"Login failed"</string>
+
+<!--    <string name="menu_send">Send</string>-->
+</resources>

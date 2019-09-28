@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <item
+            android:id="@+id/nav_news"
+            android:title="@string/menu_news" />
+        <item
+            android:id="@+id/nav_sources"
+            android:title="@string/menu_sources" />
+        <item
+            android:id="@+id/nav_weather"
+            android:title="@string/menu_weather" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="@string/menu_profile" />
+
+        <item
+            android:id="@+id/nav_exit"
+            android:title="@string/menu_exit" />
+
+
+<!--    <item android:title="Communicate">-->
+<!--        <menu>-->
+
+<!--&lt;!&ndash;            <item&ndash;&gt;-->
+<!--&lt;!&ndash;                android:id="@+id/nav_send"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:icon="@drawable/ic_menu_send"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:title="@string/menu_send" />&ndash;&gt;-->
+<!--        </menu>-->
+<!--    </item>-->
+
+</menu>
